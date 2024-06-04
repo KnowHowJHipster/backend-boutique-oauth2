@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "authenticationType": "oauth2",
+    "baseName": "Boutique",
+    "buildTool": "maven",
+    "enableTranslation": true,
+    "entities": [],
+    "jhipsterVersion": "8.5.0",
+    "languages": ["en", "ru", "fr", "it"],
+    "nativeLanguage": "en",
+    "packageFolder": "org/iqkv/boutique",
+    "packageName": "org.iqkv.boutique",
+    "prodDatabaseType": "postgresql",
+    "skipClient": true,
+    "skipServer": false,
+    "skipUserManagement": true,
+    "testFrameworks": ["cypress", "cucumber"]
+  }
+}
